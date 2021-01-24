@@ -3,7 +3,7 @@ This code will help you parse YOLO .ONNX models exported by [Ultralytics](https:
 ## Requirements
 You can just pip3 install the following packages
 1. Pillow
-1. Torch Load sound data from directory.
+1. Torch
 1. OpenCV 2
 1. [Ultralytics repo](https://github.com/ultralytics/yolov5)
 ## How To Run
