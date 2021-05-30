@@ -1,3 +1,5 @@
+## Updates
+1. Added an example on how to use ONNX with batch size 2+ 
 ## ABOUT
 This code will help you parse YOLO .ONNX models exported by [Ultralytics](https://github.com/ultralytics/yolov5)
 ## Requirements
